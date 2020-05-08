@@ -180,7 +180,6 @@ l_rate = 0.02
 #learning rate
 n_epoch = 5000 
 #number of training epochs per step fold
-
 error_graph_data = list() 
 #get error for every iteration
 stor_weights = list() 
